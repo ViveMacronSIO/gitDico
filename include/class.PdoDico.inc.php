@@ -4,7 +4,7 @@
  * Utilise les services de la classe PDO
  * @author KrauseBenjamin
  */
- // vive macron gjgjgjgjgjg
+ // vive macron
 class PdoDico{   		
       	private static $serveur='mysql:host=localhost';
       	private static $bdd='dbname=dico';   		
