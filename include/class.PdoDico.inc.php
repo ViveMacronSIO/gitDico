@@ -2,7 +2,7 @@
 /** 
  * Classe d'accès aux données.  
  * Utilise les services de la classe PDO
- * @author nomEtudiant
+ * @author KrauseBenjamin
  */
 
 class PdoDico{   		
